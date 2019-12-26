@@ -1,0 +1,7 @@
+num1 =int( input("entert the first value:"))
+
+num2 = int(input("enter the second value:"))
+
+sum = num1+num2
+
+print("The sum of ",num1,"and",num2,"is",sum)
